@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:16:1-51:12
+	package
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:17:5-41
+	android:versionName
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\00f06aa0f9beb6e475ab8d9c8a7209b4e6ead5aa\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\47747f53d96dd2275b5849d345da56ce9099ff9a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\varunsasidharan_nair\.android\build-cache\123ccaa9865c96a60c7eddc7e931d06cfdd3d507\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\9ebd38533610ba979ee7c64ac29f1a768e456773\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\b8ab5ae8cea27890e1d62f6e1ebb21f55bbdad7b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\bc70b3d2f2aa6fb8ad11be310b7f742038f3c13e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\d154ecfba94e3cd3b243108cf22e8a13e8d7c01d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\36e840b419cffb8afb50be4dc8fea89a92c0c19b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\ef6c0fd898e80ab8de4c882546328c4bbe035db7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\varunsasidharan_nair\.android\build-cache\9bc897bbb4570b8951fcea147c27ad4b36d213ef\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\d71262ece49ce5517c0d147e1230b9559e495913\output\AndroidManifest.xml:20:5-43
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\da7d6c4990a5e3cfff138918c3a340ee3e231343\output\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\49a2458e76caa39855ee8469dc97dfbe9e31d63b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\0c8df5812644a21a2a187760944f967ec8cf6c32\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\9e0dc2e806b00ccba98a5d0e9bd930466e392514\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\73bf9186985e33ae2a7b104837edd4077487709b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\470fcf134cce1fe8b4177b7eaacaca549aceac1f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\22cbf1e7a48e7c72c5d6de593a5e2ddf3bf0fb9c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\1354c1982bb479f23257d8fd1149c2cd148ea309\output\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:core:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\6f118b20cc3c1becc285b548846b669afa746a90\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\89bdd8e852a9a331e71f637cf778db68e9d8da1d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\386a1c3c24ca6e88cd6f78f2a48331409e1ba2ca\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\9ebd38533610ba979ee7c64ac29f1a768e456773\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:23:9-38
+		INJECTED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:22:9-35
+		INJECTED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:28:22-77
+application
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:30:5-49:19
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\00f06aa0f9beb6e475ab8d9c8a7209b4e6ead5aa\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\47747f53d96dd2275b5849d345da56ce9099ff9a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\varunsasidharan_nair\.android\build-cache\123ccaa9865c96a60c7eddc7e931d06cfdd3d507\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\9ebd38533610ba979ee7c64ac29f1a768e456773\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\b8ab5ae8cea27890e1d62f6e1ebb21f55bbdad7b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\bc70b3d2f2aa6fb8ad11be310b7f742038f3c13e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\d154ecfba94e3cd3b243108cf22e8a13e8d7c01d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\36e840b419cffb8afb50be4dc8fea89a92c0c19b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\ef6c0fd898e80ab8de4c882546328c4bbe035db7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\varunsasidharan_nair\.android\build-cache\9bc897bbb4570b8951fcea147c27ad4b36d213ef\output\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\49a2458e76caa39855ee8469dc97dfbe9e31d63b\output\AndroidManifest.xml:26:5-32:19
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\0c8df5812644a21a2a187760944f967ec8cf6c32\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\9e0dc2e806b00ccba98a5d0e9bd930466e392514\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\73bf9186985e33ae2a7b104837edd4077487709b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\89bdd8e852a9a331e71f637cf778db68e9d8da1d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\386a1c3c24ca6e88cd6f78f2a48331409e1ba2ca\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:34:9-41
+	android:allowBackup
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:33:9-43
+	android:theme
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:35:9-47
+	android:name
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:31:9-42
+activity#com.varun.android.listview.activities.MainActivity
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:37:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:42:27-74
+activity#com.varun.android.listview.activities.AddReminderActivity
+ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:45:9-48:25
+	android:parentActivityName
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:47:13-66
+	android:windowSoftInputMode
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:46:13-68
+	android:name
+		ADDED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml:45:19-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\00f06aa0f9beb6e475ab8d9c8a7209b4e6ead5aa\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\47747f53d96dd2275b5849d345da56ce9099ff9a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\9ebd38533610ba979ee7c64ac29f1a768e456773\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\b8ab5ae8cea27890e1d62f6e1ebb21f55bbdad7b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\bc70b3d2f2aa6fb8ad11be310b7f742038f3c13e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\d154ecfba94e3cd3b243108cf22e8a13e8d7c01d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\36e840b419cffb8afb50be4dc8fea89a92c0c19b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\ef6c0fd898e80ab8de4c882546328c4bbe035db7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\d71262ece49ce5517c0d147e1230b9559e495913\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\0c8df5812644a21a2a187760944f967ec8cf6c32\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\9e0dc2e806b00ccba98a5d0e9bd930466e392514\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\73bf9186985e33ae2a7b104837edd4077487709b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\89bdd8e852a9a331e71f637cf778db68e9d8da1d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\386a1c3c24ca6e88cd6f78f2a48331409e1ba2ca\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\00f06aa0f9beb6e475ab8d9c8a7209b4e6ead5aa\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\varunsasidharan_nair\.android\build-cache\00f06aa0f9beb6e475ab8d9c8a7209b4e6ead5aa\output\AndroidManifest.xml:23:9-47
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\49a2458e76caa39855ee8469dc97dfbe9e31d63b\output\AndroidManifest.xml:27:9-31:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\49a2458e76caa39855ee8469dc97dfbe9e31d63b\output\AndroidManifest.xml:29:13-68
+		INJECTED from D:\Training\app-dev\remind-me\Application\src\main\AndroidManifest.xml
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\49a2458e76caa39855ee8469dc97dfbe9e31d63b\output\AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\49a2458e76caa39855ee8469dc97dfbe9e31d63b\output\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0-alpha1] C:\Users\varunsasidharan_nair\.android\build-cache\49a2458e76caa39855ee8469dc97dfbe9e31d63b\output\AndroidManifest.xml:28:13-81

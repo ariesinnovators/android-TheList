@@ -1,0 +1,7 @@
+#Wed Nov 01 20:19:26 AEDT 2017
+base.0=D\:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5e186ed64ca20e16fe592556370d9ab29713422
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b21a6435d51f7ff4e9125c0daa629f24d4d2ae3e\\classes.dex
+base.1=D\:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b21a6435d51f7ff4e9125c0daa629f24d4d2ae3e
+file.0=D\:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5e186ed64ca20e16fe592556370d9ab29713422\\classes.dex

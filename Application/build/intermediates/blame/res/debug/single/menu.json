@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Training\\app-dev\\remind-me\\Application\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\popup.xml",
+        "source": "D:\\Training\\app-dev\\remind-me\\Application\\src\\main\\res\\menu\\popup.xml"
+    }
+]

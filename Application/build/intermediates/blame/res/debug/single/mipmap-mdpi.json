@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\calendar_25.png",
+        "source": "D:\\Training\\app-dev\\remind-me\\Application\\src\\main\\res\\mipmap-mdpi\\calendar_25.png"
+    },
+    {
+        "merged": "D:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\calendar_button.png",
+        "source": "D:\\Training\\app-dev\\remind-me\\Application\\src\\main\\res\\mipmap-mdpi\\calendar_button.png"
+    },
+    {
+        "merged": "D:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\Training\\app-dev\\remind-me\\Application\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\plus_sign_pink.png",
+        "source": "D:\\Training\\app-dev\\remind-me\\Application\\src\\main\\res\\mipmap-mdpi\\plus_sign_pink.png"
+    },
+    {
+        "merged": "D:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\add_reminder_button_image.png",
+        "source": "D:\\Training\\app-dev\\remind-me\\Application\\src\\main\\res\\mipmap-mdpi\\add_reminder_button_image.png"
+    }
+]

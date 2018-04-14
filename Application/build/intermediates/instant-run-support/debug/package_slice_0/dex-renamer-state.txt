@@ -1,0 +1,4 @@
+#Wed Nov 01 20:49:41 AEDT 2017
+base.0=D\:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=D\:\\Training\\app-dev\\remind-me\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
